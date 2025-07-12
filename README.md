@@ -1,0 +1,1 @@
+Data disclaimer: Raw historical price data are from Yahoo! Finance (subject to Yahoo’s Terms of Service). All original content in this repository (calculations, formulas, charts, analyses) is covered by the MIT License.
